@@ -1,4 +1,4 @@
-#👋 Hi, I’m Grégory Dos Santos.
+# 👋 Hi, I’m Grégory Dos Santos.
 
 👀 I’m interested in new technologies, 3D and video games.
 
